@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Opa. Eu me chamo Abner! E sou um estudante de desenvolvimento de sistemas.<br><br>- 📚 Atualmente estou aprendendo Dart <br>- ⚡ No meu tempo livre eu, eu costumo ler.</p>
+<p align="left">Opa. Eu me chamo Abner! E sou um estudante de programação.<br><br>- 📚 Atualmente estou aprendendo Dart <br>- ⚡ No meu tempo livre eu, eu costumo ler.</p>
 
 ###
 
