@@ -31,16 +31,6 @@
 
 ###
 
-<h2 align="left">Portfolio</h2>
-
-###
-
-<div align="center">
-  <img height="400" src="https://images.steamusercontent.com/ugc/2438013375536944117/AD8660D75A18C0253FD4237689978206AB1B83C3/?imw=1024&imh=541&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
-</div>
-
-###
-
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
